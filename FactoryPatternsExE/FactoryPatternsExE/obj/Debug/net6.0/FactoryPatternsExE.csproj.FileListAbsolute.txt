@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\bin\Debug\net6.0\FactoryPatternsExE.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\bin\Debug\net6.0\FactoryPatternsExE.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\bin\Debug\net6.0\FactoryPatternsExE.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\bin\Debug\net6.0\FactoryPatternsExE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\bin\Debug\net6.0\FactoryPatternsExE.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\FactoryPatternsExE.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\FactoryPatternsExE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\FactoryPatternsExE.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\FactoryPatternsExE.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\FactoryPatternsExE.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\FactoryPatternsExE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\refint\FactoryPatternsExE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\FactoryPatternsExE.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\FactoryPatternsExE.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\FactoryPattern\FactoryPatternsExE\FactoryPatternsExE\obj\Debug\net6.0\ref\FactoryPatternsExE.dll
